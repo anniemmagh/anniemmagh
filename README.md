@@ -38,20 +38,6 @@ facebook
 
 	linkedin	
 
-	
 
-	
-Ani Maghlakvelidze
-
-BTU - Business administration & Management
-
-
-
-mobilePhone
-	+(995) 595 99 28 19
-emailAddress
-	ani.maghlakvelidze.1@btu.edu.ge
-address
-	BTU , 82 Ilia Chavchavadze Avenue
 
 
